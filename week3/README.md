@@ -1,16 +1,18 @@
-# Week 3 - Backpropagation and Activation Functions
+# Semana 3 - Backpropagation y Funciones de Activación
 
-## Objective
-Implement a simple neural network with backpropagation
-and compare activation functions.
+## Objetivo
 
-## Activations Compared
-- Sigmoid
-- ReLU
+Implementar una red neuronal simple con backpropagation y comparar funciones de activación.
 
-## Results
-The loss decreases during training showing that the
-network learns the dataset.
+## Activaciones comparadas
 
-## How to Run
-Open the notebook in Google Colab and execute all cells.
+* Sigmoid
+* ReLU
+
+## Resultados
+
+La pérdida disminuye durante el entrenamiento, mostrando que la red aprende el conjunto de datos.
+
+## Cómo ejecutar
+
+Abrir el notebook en Google Colab y ejecutar todas las celdas.
