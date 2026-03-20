@@ -26,3 +26,31 @@ El optimizador Adam es más eficiente para este tipo de problema, ya que mejora 
 ## Cómo ejecutar
 
 Abrir el notebook en Google Colab y ejecutar todas las celdas para reproducir los resultados.
+
+# Semana 4 - Regularización en Redes Neuronales
+
+## Objetivo
+
+Aplicar técnicas de regularización para reducir el sobreajuste en una red neuronal.
+
+## Metodología
+
+Se comparó un modelo base sin regularización con un modelo que utiliza Dropout.
+
+## Configuración
+
+* Modelo sin regularización
+* Modelo con Dropout
+
+## Resultados
+
+El modelo con Dropout reduce el sobreajuste y mejora la generalización.
+
+## Conclusión
+
+La regularización permite obtener modelos más estables y con mejor desempeño en datos no vistos.
+
+## Cómo ejecutar
+
+Abrir el notebook en Google Colab y ejecutar todas las celdas.
+
